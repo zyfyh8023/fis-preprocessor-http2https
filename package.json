@@ -1,0 +1,19 @@
+{
+    "name" : "fis-preprocessor-http2https",
+    "description" : "http2https",
+    "version" : "0.1.0",
+    "author" : "zy<zyfyh8023@163.com>",
+    "homepage" : "https://github.com/zyfyh8023",
+    "keywords": [ "http", "https" ],
+    "main" : "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zyfyh8023/fis-preprocessor-http2https.git"
+    },
+    "engines" : {
+        "node" : ">= 0.8.0"
+    },
+    "scripts" : {
+        "test" : " "
+    }
+}
